@@ -24,4 +24,5 @@ Img 1 - 3 is the same hospital with several floors:
 ![Screenshot 2024-08-30 164611](https://github.com/user-attachments/assets/36544377-e21b-4378-ab7a-eea10894c6c8)
 
 Comparison between A* and Dijkstra:
+
 ![Screenshot 2024-08-30 164636](https://github.com/user-attachments/assets/c6346f42-4f26-4877-a67c-6bdbcc15ee5f)
